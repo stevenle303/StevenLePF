@@ -20,7 +20,7 @@ body{
     max-width: 1100px;
     margin: 0 auto;
     padding: 0 3rem;
-    margin-top: 4rem;
+    margin-top: 10rem;
     text-align: center;
 }
 
@@ -60,7 +60,7 @@ p{
 .btn{
     display: inline-block;
     padding: 2.7rem 7.5rem;
-    margin-bottom: 20rem;
+    margin-bottom: 15rem;
     background: #f6f6f6;
     font-size: 2rem;
     text-decoration: none;
